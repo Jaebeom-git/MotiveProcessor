@@ -1,3 +1,10 @@
+"""
+MotiveProcessor Script
+
+Author: Jaebeom Jo
+Email: jojaebeom@gm.gist.ac.kr
+"""
+
 import shutil
 import os
 import json

@@ -1,3 +1,10 @@
+"""
+MotiveProcessor Script
+
+Author: Jaebeom Jo
+Email: jojaebeom@gm.gist.ac.kr
+"""
+
 import subprocess
 import os
 import xml.etree.ElementTree as ET

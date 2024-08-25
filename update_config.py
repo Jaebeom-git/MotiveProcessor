@@ -1,3 +1,10 @@
+"""
+MotiveProcessor Script
+
+Author: Jaebeom Jo
+Email: jojaebeom@gm.gist.ac.kr
+"""
+
 import json
 
 def update_subject_num(subject_num):

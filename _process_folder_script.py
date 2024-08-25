@@ -1,3 +1,10 @@
+"""
+MotiveProcessor Script
+
+Author: Jaebeom Jo
+Email: jojaebeom@gm.gist.ac.kr
+"""
+
 import os
 import sys
 import clr
