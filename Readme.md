@@ -3,7 +3,7 @@ MotiveProcessor is a project designed to process motion capture data using NMoti
 The project includes scripts for creating directories, extracting `.tak` files (for repeated recoding), 
 and exporting them to `.csv` and `.trc` formats.
 
-** Motive = 2.0.0 version **
+**Motive Version:** 2.0.0
 
 ## Author
 
