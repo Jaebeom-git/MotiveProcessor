@@ -1,0 +1,16 @@
+{
+    "BASE_DIR": "./Experiments",
+    "SUBJECT_NUM": 0,
+    "folders_with_subfolders": [
+        "WALK",
+        "TUG",
+        "STS",
+        "FTSTS",
+        "PICK",
+        "STEP_R",
+        "STEP_L"
+    ],
+    "folders_without_subfolders": [
+        "STATIC"
+    ]
+}
