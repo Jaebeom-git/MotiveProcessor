@@ -1,5 +1,8 @@
 @echo off
 :loop
+REM Activate the motive environment
+call mamba activate motive
+
 REM Prompt the user to input SUBJECT_NUM
 set /p SUBJECT_NUM=Enter Subject Number:
 
@@ -11,6 +14,9 @@ python move_tak.py
 
 REM Run export_tak.py
 python export_tak.py
+
+REM Run move_raw.py
+python move_raw.py
 
 REM Loop back to prompt again
 goto loop

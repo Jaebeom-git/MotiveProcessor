@@ -1,5 +1,8 @@
 @echo off
 :loop
+REM Activate the motive environment
+call mamba activate motive
+
 REM Prompt the user to input SUBJECT_NUM
 set /p SUBJECT_NUM=Enter Subject Number:
 

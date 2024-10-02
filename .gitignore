@@ -1,6 +1,7 @@
 # Ignore folder
 __pycache__/
 Raw/
+Experiments/
 
 # Ignore all Jupyter Notebook files
 *.ipynb

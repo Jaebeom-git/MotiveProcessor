@@ -1,6 +1,6 @@
 {
     "BASE_DIR": "./Experiments",
-    "SUBJECT_NUM": 0,
+    "SUBJECT_NUM": 2,
     "folders_with_subfolders": [
         "WALK",
         "TUG",
